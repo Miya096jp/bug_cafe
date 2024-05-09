@@ -1,5 +1,7 @@
 # frozen_string_literal: true
+requir: 'debug'
 
+binding.break
 DRINKS = [
   { name: 'コーヒー', price: '300' },
   { name: 'カフェラテ', price: '400' },
